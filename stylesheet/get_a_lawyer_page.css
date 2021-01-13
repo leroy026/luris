@@ -1,0 +1,1998 @@
+.mediaViewInfo {
+	--web-view-name: get a lawyer page;
+	--web-view-id: get_a_lawyer_page;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: get_a_lawyer_page;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.get_a_lawyer_page_Class {
+	position: absolute;
+	width: 1920px;
+	height: 2593px;
+	background-color: rgba(248,248,248,1);
+	overflow: hidden;
+	--web-view-name: get a lawyer page;
+	--web-view-id: get_a_lawyer_page;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Rectangle_1_id_Class {
+	fill: rgba(246,246,246,1);
+}
+.Rectangle_1_id {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 2593px;
+	left: 0px;
+	top: 0px;
+}
+.LurisByte_ie_Class {
+	left: 741px;
+	top: 263px;
+	position: absolute;
+	overflow: visible;
+	width: 439px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,193,208,1);
+	letter-spacing: 6px;
+}
+.Large_Card_Class {
+	position: absolute;
+	width: 360px;
+	height: 428px;
+	left: 780px;
+	top: 477px;
+	overflow: visible;
+	cursor: pointer;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Profile_information_1.html;
+}
+.Rectangle_215_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_215 {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 428px;
+	left: 0px;
+	top: 0px;
+}
+.Michael_Bow_Class {
+	left: 78px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 86px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(38,153,251,1);
+}
+.Avatar_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 32px;
+	top: 32px;
+	overflow: visible;
+}
+.Ellipse_98_Class {
+	fill: rgba(38,153,251,1);
+}
+.Ellipse_98 {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+.Union_5_Class {
+	fill: rgba(255,255,255,1);
+}
+.Union_5 {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 9px;
+	top: 8.25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID1h_ago_Class {
+	left: 290px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Arial;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(180,180,180,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_im_Class {
+	left: 32px;
+	top: 87px;
+	position: absolute;
+	overflow: hidden;
+	width: 296px;
+	height: 59px;
+	line-height: 22px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(204,204,204,1);
+}
+.Rectangle_216_Class {
+	position: absolute;
+	width: 295px;
+	height: 170px;
+	left: 32px;
+	top: 178px;
+	overflow: visible;
+}
+.Large_Card_io_Class {
+	position: absolute;
+	width: 360px;
+	height: 428px;
+	left: 780px;
+	top: 953px;
+	overflow: visible;
+}
+.Rectangle_215_ip_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_215_ip {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 428px;
+	left: 0px;
+	top: 0px;
+}
+.Name_Surname_Class {
+	left: 78px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(38,153,251,1);
+}
+.Avatar_ir_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 32px;
+	top: 32px;
+	overflow: visible;
+}
+.Ellipse_98_is_Class {
+	fill: rgba(38,153,251,1);
+}
+.Ellipse_98_is {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+.Union_5_it_Class {
+	fill: rgba(255,255,255,1);
+}
+.Union_5_it {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 9px;
+	top: 8.25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID1h_ago_iu_Class {
+	left: 290px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Arial;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(180,180,180,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_iv_Class {
+	left: 32px;
+	top: 87px;
+	position: absolute;
+	overflow: hidden;
+	width: 296px;
+	height: 59px;
+	line-height: 22px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(204,204,204,1);
+}
+.Rectangle_216_iw_Class {
+	position: absolute;
+	width: 295px;
+	height: 170px;
+	left: 32px;
+	top: 178px;
+	overflow: visible;
+}
+.Large_Card_ix_Class {
+	position: absolute;
+	width: 360px;
+	height: 428px;
+	left: 780px;
+	top: 1429px;
+	overflow: visible;
+}
+.Rectangle_215_iy_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_215_iy {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 428px;
+	left: 0px;
+	top: 0px;
+}
+.Name_Surname_iz_Class {
+	left: 78px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(38,153,251,1);
+}
+.Avatar_i_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 32px;
+	top: 32px;
+	overflow: visible;
+}
+.Ellipse_98_i_Class {
+	fill: rgba(38,153,251,1);
+}
+.Ellipse_98_i {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+.Union_5_i_Class {
+	fill: rgba(255,255,255,1);
+}
+.Union_5_i {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 9px;
+	top: 8.25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID1h_ago_i_Class {
+	left: 290px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Arial;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(180,180,180,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_i_Class {
+	left: 32px;
+	top: 87px;
+	position: absolute;
+	overflow: hidden;
+	width: 296px;
+	height: 59px;
+	line-height: 22px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(204,204,204,1);
+}
+.Rectangle_216_i_Class {
+	position: absolute;
+	width: 295px;
+	height: 170px;
+	left: 32px;
+	top: 178px;
+	overflow: visible;
+}
+.Large_Card_i_Class {
+	position: absolute;
+	width: 360px;
+	height: 428px;
+	left: 780px;
+	top: 1905px;
+	overflow: visible;
+}
+.Rectangle_215_i_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_215_i {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 428px;
+	left: 0px;
+	top: 0px;
+}
+.Name_Surname_i_Class {
+	left: 78px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(38,153,251,1);
+}
+.Avatar_ja_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 32px;
+	top: 32px;
+	overflow: visible;
+}
+.Ellipse_98_ja_Class {
+	fill: rgba(38,153,251,1);
+}
+.Ellipse_98_ja {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+.Union_5_jb_Class {
+	fill: rgba(255,255,255,1);
+}
+.Union_5_jb {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 9px;
+	top: 8.25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID1h_ago_jc_Class {
+	left: 290px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Arial;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(180,180,180,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_jd_Class {
+	left: 32px;
+	top: 87px;
+	position: absolute;
+	overflow: hidden;
+	width: 296px;
+	height: 59px;
+	line-height: 22px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(204,204,204,1);
+}
+.Rectangle_216_je_Class {
+	position: absolute;
+	width: 295px;
+	height: 170px;
+	left: 32px;
+	top: 178px;
+	overflow: visible;
+}
+.Large_Card_jf_Class {
+	position: absolute;
+	width: 360px;
+	height: 428px;
+	left: 1179px;
+	top: 477px;
+	overflow: visible;
+}
+.Rectangle_215_jg_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_215_jg {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 428px;
+	left: 0px;
+	top: 0px;
+}
+.Name_Surname_jh_Class {
+	left: 78px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(38,153,251,1);
+}
+.Avatar_ji_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 32px;
+	top: 32px;
+	overflow: visible;
+}
+.Ellipse_98_jj_Class {
+	fill: rgba(38,153,251,1);
+}
+.Ellipse_98_jj {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+.Union_5_jk_Class {
+	fill: rgba(255,255,255,1);
+}
+.Union_5_jk {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 9px;
+	top: 8.25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID1h_ago_jl_Class {
+	left: 290px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Arial;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(180,180,180,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_jm_Class {
+	left: 32px;
+	top: 87px;
+	position: absolute;
+	overflow: hidden;
+	width: 296px;
+	height: 59px;
+	line-height: 22px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(204,204,204,1);
+}
+.wallhaven-765mmy_Class {
+	position: absolute;
+	width: 295px;
+	height: 170px;
+	left: 32px;
+	top: 178px;
+	overflow: visible;
+}
+.Large_Card_jo_Class {
+	position: absolute;
+	width: 360px;
+	height: 428px;
+	left: 1179px;
+	top: 953px;
+	overflow: visible;
+}
+.Rectangle_215_jp_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_215_jp {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 428px;
+	left: 0px;
+	top: 0px;
+}
+.Name_Surname_jq_Class {
+	left: 78px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(38,153,251,1);
+}
+.Avatar_jr_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 32px;
+	top: 32px;
+	overflow: visible;
+}
+.Ellipse_98_js_Class {
+	fill: rgba(38,153,251,1);
+}
+.Ellipse_98_js {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+.Union_5_jt_Class {
+	fill: rgba(255,255,255,1);
+}
+.Union_5_jt {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 9px;
+	top: 8.25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID1h_ago_ju_Class {
+	left: 290px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Arial;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(180,180,180,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_jv_Class {
+	left: 32px;
+	top: 87px;
+	position: absolute;
+	overflow: hidden;
+	width: 296px;
+	height: 59px;
+	line-height: 22px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(204,204,204,1);
+}
+.Rectangle_216_jw_Class {
+	position: absolute;
+	width: 295px;
+	height: 170px;
+	left: 32px;
+	top: 178px;
+	overflow: visible;
+}
+.Large_Card_jx_Class {
+	position: absolute;
+	width: 360px;
+	height: 428px;
+	left: 1179px;
+	top: 1429px;
+	overflow: visible;
+}
+.Rectangle_215_jy_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_215_jy {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 428px;
+	left: 0px;
+	top: 0px;
+}
+.Name_Surname_jz_Class {
+	left: 78px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(38,153,251,1);
+}
+.Avatar_j_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 32px;
+	top: 32px;
+	overflow: visible;
+}
+.Ellipse_98_j_Class {
+	fill: rgba(38,153,251,1);
+}
+.Ellipse_98_j {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+.Union_5_j_Class {
+	fill: rgba(255,255,255,1);
+}
+.Union_5_j {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 9px;
+	top: 8.25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID1h_ago_j_Class {
+	left: 290px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Arial;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(180,180,180,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_j_Class {
+	left: 32px;
+	top: 87px;
+	position: absolute;
+	overflow: hidden;
+	width: 296px;
+	height: 59px;
+	line-height: 22px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(204,204,204,1);
+}
+.Rectangle_216_j_Class {
+	position: absolute;
+	width: 295px;
+	height: 170px;
+	left: 32px;
+	top: 178px;
+	overflow: visible;
+}
+.Large_Card_j_Class {
+	position: absolute;
+	width: 360px;
+	height: 428px;
+	left: 1179px;
+	top: 1905px;
+	overflow: visible;
+}
+.Rectangle_215_j_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_215_j {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 428px;
+	left: 0px;
+	top: 0px;
+}
+.Name_Surname_j_Class {
+	left: 78px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(38,153,251,1);
+}
+.Avatar_ka_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 32px;
+	top: 32px;
+	overflow: visible;
+}
+.Ellipse_98_ka_Class {
+	fill: rgba(38,153,251,1);
+}
+.Ellipse_98_ka {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+.Union_5_kb_Class {
+	fill: rgba(255,255,255,1);
+}
+.Union_5_kb {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 9px;
+	top: 8.25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID1h_ago_kc_Class {
+	left: 290px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Arial;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(180,180,180,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_kd_Class {
+	left: 32px;
+	top: 87px;
+	position: absolute;
+	overflow: hidden;
+	width: 296px;
+	height: 59px;
+	line-height: 22px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(204,204,204,1);
+}
+.Rectangle_216_ke_Class {
+	position: absolute;
+	width: 295px;
+	height: 170px;
+	left: 32px;
+	top: 178px;
+	overflow: visible;
+}
+.Large_Card_kf_Class {
+	position: absolute;
+	width: 360px;
+	height: 428px;
+	left: 381px;
+	top: 477px;
+	overflow: visible;
+	cursor: pointer;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Profile_information_2.html;
+}
+.Rectangle_215_kg_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_215_kg {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 428px;
+	left: 0px;
+	top: 0px;
+}
+.Mark_Smith_Class {
+	left: 78px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(38,153,251,1);
+}
+.Avatar_ki_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 32px;
+	top: 32px;
+	overflow: visible;
+}
+.Ellipse_98_kj_Class {
+	fill: rgba(38,153,251,1);
+}
+.Ellipse_98_kj {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+.Union_5_kk_Class {
+	fill: rgba(255,255,255,1);
+}
+.Union_5_kk {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 9px;
+	top: 8.25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID4h_ago_Class {
+	left: 290px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Arial;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(180,180,180,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_km_Class {
+	left: 32px;
+	top: 87px;
+	position: absolute;
+	overflow: hidden;
+	width: 296px;
+	height: 59px;
+	line-height: 22px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(204,204,204,1);
+}
+.Rectangle_216_kn_Class {
+	position: absolute;
+	width: 295px;
+	height: 170px;
+	left: 32px;
+	top: 178px;
+	overflow: visible;
+}
+.Large_Card_ko_Class {
+	position: absolute;
+	width: 360px;
+	height: 428px;
+	left: 381px;
+	top: 953px;
+	overflow: visible;
+}
+.Rectangle_215_kp_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_215_kp {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 428px;
+	left: 0px;
+	top: 0px;
+}
+.Name_Surname_kq_Class {
+	left: 78px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(38,153,251,1);
+}
+.Avatar_kr_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 32px;
+	top: 32px;
+	overflow: visible;
+}
+.Ellipse_98_ks_Class {
+	fill: rgba(38,153,251,1);
+}
+.Ellipse_98_ks {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+.Union_5_kt_Class {
+	fill: rgba(255,255,255,1);
+}
+.Union_5_kt {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 9px;
+	top: 8.25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID1h_ago_ku_Class {
+	left: 290px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Arial;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(180,180,180,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_kv_Class {
+	left: 32px;
+	top: 87px;
+	position: absolute;
+	overflow: hidden;
+	width: 296px;
+	height: 59px;
+	line-height: 22px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(204,204,204,1);
+}
+.Rectangle_216_kw_Class {
+	position: absolute;
+	width: 295px;
+	height: 170px;
+	left: 32px;
+	top: 178px;
+	overflow: visible;
+}
+.Large_Card_kx_Class {
+	position: absolute;
+	width: 360px;
+	height: 428px;
+	left: 381px;
+	top: 1429px;
+	overflow: visible;
+}
+.Rectangle_215_ky_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_215_ky {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 428px;
+	left: 0px;
+	top: 0px;
+}
+.Name_Surname_kz_Class {
+	left: 78px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(38,153,251,1);
+}
+.Avatar_k_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 32px;
+	top: 32px;
+	overflow: visible;
+}
+.Ellipse_98_k_Class {
+	fill: rgba(38,153,251,1);
+}
+.Ellipse_98_k {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+.Union_5_k_Class {
+	fill: rgba(255,255,255,1);
+}
+.Union_5_k {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 9px;
+	top: 8.25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID1h_ago_k_Class {
+	left: 290px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Arial;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(180,180,180,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_k_Class {
+	left: 32px;
+	top: 87px;
+	position: absolute;
+	overflow: hidden;
+	width: 296px;
+	height: 59px;
+	line-height: 22px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(204,204,204,1);
+}
+.Rectangle_216_k_Class {
+	position: absolute;
+	width: 295px;
+	height: 170px;
+	left: 32px;
+	top: 178px;
+	overflow: visible;
+}
+.Large_Card_k_Class {
+	position: absolute;
+	width: 360px;
+	height: 428px;
+	left: 381px;
+	top: 1905px;
+	overflow: visible;
+}
+.Rectangle_215_k_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_215_k {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 428px;
+	left: 0px;
+	top: 0px;
+}
+.Name_Surname_k_Class {
+	left: 78px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(38,153,251,1);
+}
+.Avatar_la_Class {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 32px;
+	top: 32px;
+	overflow: visible;
+}
+.Ellipse_98_la_Class {
+	fill: rgba(38,153,251,1);
+}
+.Ellipse_98_la {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+.Union_5_lb_Class {
+	fill: rgba(255,255,255,1);
+}
+.Union_5_lb {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 9px;
+	top: 8.25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID1h_ago_lc_Class {
+	left: 290px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Arial;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(180,180,180,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_ld_Class {
+	left: 32px;
+	top: 87px;
+	position: absolute;
+	overflow: hidden;
+	width: 296px;
+	height: 59px;
+	line-height: 22px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(204,204,204,1);
+}
+.Rectangle_216_le_Class {
+	position: absolute;
+	width: 295px;
+	height: 170px;
+	left: 32px;
+	top: 178px;
+	overflow: visible;
+}
+._Digital_Community_for_Legal_P_lf_Class {
+	left: 756px;
+	top: 355px;
+	position: absolute;
+	overflow: visible;
+	width: 409px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(0,193,208,1);
+}
+.Pagination_Class {
+	position: absolute;
+	width: 204px;
+	height: 16px;
+	left: 858px;
+	top: 2345px;
+	overflow: visible;
+}
+.Group_87_Class {
+	position: absolute;
+	width: 204px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.ID1_Class {
+	left: 39px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 7px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(38,153,251,1);
+}
+.Component_1_lj_Class {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 188px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: get_a_lawyer_page_2.html;
+	cursor: pointer;
+}
+.Path_10_lk_Class {
+	fill: rgba(38,153,251,1);
+}
+.Path_10_lk {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID2_Class {
+	left: 69px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 7px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: get_a_lawyer_page_2.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(188,224,253,1);
+}
+.ID3_Class {
+	left: 99px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 7px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(188,224,253,1);
+}
+.ID4_Class {
+	left: 129px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 7px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(188,224,253,1);
+}
+.ID5_Class {
+	left: 159px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 7px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(188,224,253,1);
+}
+.Component_1_lp_Class {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_10_lq_Class {
+	fill: rgba(38,153,251,1);
+}
+.Path_10_lq {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Component_23__3_Class {
+	position: absolute;
+	width: 1920px;
+	height: 200px;
+	left: 0px;
+	top: 2393px;
+	overflow: visible;
+}
+.Base_ls_Class {
+	fill: rgba(0,193,208,1);
+}
+.Base_ls {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 200px;
+	left: 0px;
+	top: 0px;
+}
+.CONTACT_US_lt_Class {
+	left: 290px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	line-height: 12px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.ID44_345_678_903_lurisbytemail_lu_Class {
+	left: 380px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.SERVICES_lv_Class {
+	left: 600px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	line-height: 12px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.Contact_Us_Help_Service_Free_C_lw_Class {
+	left: 680px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.INFORMATION_lx_Class {
+	left: 910px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	line-height: 12px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.LurisByte_Career_Work_With_US__ly_Class {
+	left: 1000px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+._LurisByte_2021_lz_Class {
+	left: 1553px;
+	top: 146px;
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -5px;
+	text-align: right;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.social_l_Class {
+	position: absolute;
+	width: 84px;
+	height: 16.001px;
+	left: 1550px;
+	top: 49.999px;
+	overflow: visible;
+}
+.Component_l_Class {
+	position: absolute;
+	width: 16px;
+	height: 16.001px;
+	left: 68px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_392_l_Class {
+	fill: transparent;
+}
+.Rectangle_392_l {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+}
+.Path_1_l_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_1_l {
+	overflow: visible;
+	position: absolute;
+	width: 8.355px;
+	height: 16px;
+	left: 4px;
+	top: 0.001px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Component_ma_Class {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 36px;
+	top: 0.001px;
+	overflow: visible;
+}
+.Rectangle_393_l_Class {
+	fill: transparent;
+}
+.Rectangle_393_l {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+}
+.Path_2_l_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_2_l {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 12.978px;
+	left: 0px;
+	top: 1.999px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Component_mb_Class {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0.001px;
+	overflow: visible;
+}
+.Path_3_l_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_3_l {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Component_5__1_l_Class {
+	position: absolute;
+	width: 1920px;
+	height: 98px;
+	left: 0px;
+	top: 18px;
+	overflow: visible;
+}
+.Component_4__1_ma_Class {
+	position: absolute;
+	width: 1920px;
+	height: 98px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1096_mb_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1096_mb {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 98px;
+	left: 0px;
+	top: 0px;
+}
+.PRACTICE_AREAS_mc_Class {
+	left: 499px;
+	top: 37px;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: landing_page.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,1);
+}
+.ABOUT_US_md_Class {
+	left: 670px;
+	top: 37px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: landing_page.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,1);
+}
+.FAQs_me_Class {
+	left: 791px;
+	top: 37px;
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: FAQs.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,1);
+}
+.ID1-01_mf_Class {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	left: 260px;
+	top: 13px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: landing_page.html;
+	cursor: pointer;
+}
+.LurisByte_mg_Class {
+	left: 320px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: landing_page.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(112,112,112,1);
+}
+.Button_Primary_mh_Class {
+	position: absolute;
+	width: 148px;
+	height: 48px;
+	left: 1322px;
+	top: 24px;
+	overflow: visible;
+	cursor: pointer;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: log_in_page_.html;
+}
+.Rectangle_1091_mi_Class {
+	fill: transparent;
+	stroke: rgba(0,193,208,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1091_mi {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+.LOG_IN_mj_Class {
+	left: 53px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -9px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(0,193,208,1);
+}
+.Button_CTA_mk_Class {
+	position: absolute;
+	width: 148px;
+	height: 48px;
+	left: 1495px;
+	top: 24px;
+	overflow: visible;
+	cursor: pointer;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: sign_in_page_.html;
+}
+.Rectangle_1090_ml_Class {
+	fill: rgba(0,193,208,1);
+}
+.Rectangle_1090_ml {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+.SIGN_IN_mm_Class {
+	left: 52px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -9px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+.Top_Navigation__Search_mn_Class {
+	position: absolute;
+	width: 88px;
+	height: 24px;
+	left: 1209px;
+	top: 36px;
+	overflow: visible;
+}
+.ID00_General__01_Icons__02_Com_mo_Class {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.BG_mp_Class {
+	fill: rgba(0,0,0,0);
+}
+.BG_mp {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+.color_mq_Class {
+	fill: rgba(126,132,163,1);
+}
+.color_mq {
+	overflow: visible;
+	position: absolute;
+	width: 17px;
+	height: 17px;
+	left: 3px;
+	top: 3px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Search_mr_Class {
+	left: 32px;
+	top: 3px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(90,96,127,1);
+}

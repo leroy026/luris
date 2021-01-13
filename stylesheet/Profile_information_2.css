@@ -1,0 +1,473 @@
+.mediaViewInfo {
+	--web-view-name: Profile information 2;
+	--web-view-id: Profile_information_2;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+	--web-is-overlay: true;
+}
+:root {
+	--web-view-ids: Profile_information_2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Profile_information_2_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	overflow: hidden;
+	cursor: pointer;
+	--web-view-name: Profile information 2;
+	--web-view-id: Profile_information_2;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+	--web-is-overlay: true;
+}
+.Slider_sh_Class {
+	position: absolute;
+	width: 1400px;
+	height: 820px;
+	left: 260px;
+	top: 110px;
+	overflow: visible;
+}
+.Image_si_Class {
+	position: absolute;
+	width: 1400px;
+	height: 680px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_206_sj_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_206_sj {
+	overflow: visible;
+	position: absolute;
+	width: 264px;
+	height: 160px;
+	left: 852px;
+	top: 660px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_223_sk_Class {
+	fill: rgba(0,193,208,1);
+}
+.Path_223_sk {
+	overflow: visible;
+	position: absolute;
+	width: 264px;
+	height: 160px;
+	left: 284px;
+	top: 660px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_400_sl_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_400_sl {
+	position: absolute;
+	overflow: visible;
+	width: 264px;
+	height: 160px;
+	left: 568px;
+	top: 660px;
+}
+.Header_sm_Class {
+	opacity: 0.53;
+	position: absolute;
+	width: 760px;
+	height: 250px;
+	left: 260px;
+	top: 110px;
+	overflow: visible;
+}
+.Base_sn_Class {
+	fill: rgba(255,255,255,1);
+}
+.Base_sn {
+	position: absolute;
+	overflow: visible;
+	width: 760px;
+	height: 250px;
+	left: 0px;
+	top: 0px;
+}
+.Partner_at_Matt_Law_Class {
+	left: 23px;
+	top: 125px;
+	position: absolute;
+	overflow: visible;
+	width: 701px;
+	height: 60px;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(38,153,251,1);
+}
+.Mark_Smith_sp_Class {
+	left: 23px;
+	top: 59px;
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Georgia;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(38,153,251,1);
+}
+._sq_Class {
+	position: absolute;
+	width: 42.426px;
+	height: 42.426px;
+	left: 693.787px;
+	top: 16.787px;
+	overflow: visible;
+}
+._sr_Class {
+	transform: translate(0px, 0px) matrix(1,0,0,1,6.2132,6.2132) rotate(45deg);
+	transform-origin: center;
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Union_1_ss_Class {
+	fill: rgba(38,153,251,1);
+}
+.Union_1_ss {
+	overflow: visible;
+	position: absolute;
+	width: 42.426px;
+	height: 42.426px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.mail-black-18dp_st_Class {
+	position: absolute;
+	width: 43.478px;
+	height: 36.92px;
+	left: 1221.484px;
+	top: 830.261px;
+	overflow: visible;
+}
+.Path_209_su_Class {
+	fill: transparent;
+}
+.Path_209_su {
+	overflow: visible;
+	position: absolute;
+	width: 27.654px;
+	height: 22.379px;
+	left: 5.24px;
+	top: 11.359px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_210_sv_Class {
+	fill: rgba(0,0,0,1);
+}
+.Path_210_sv {
+	overflow: visible;
+	position: absolute;
+	width: 43.479px;
+	height: 36.92px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.my_location-black-18dp_sw_Class {
+	position: absolute;
+	width: 54.602px;
+	height: 54.602px;
+	left: 932.753px;
+	top: 821.645px;
+	overflow: visible;
+}
+.Path_211_sx_Class {
+	fill: transparent;
+}
+.Path_211_sx {
+	overflow: visible;
+	position: absolute;
+	width: 54.602px;
+	height: 54.602px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_212_sy_Class {
+	fill: rgba(0,0,0,1);
+}
+.Path_212_sy {
+	overflow: visible;
+	position: absolute;
+	width: 50.052px;
+	height: 50.052px;
+	left: 2.275px;
+	top: 2.275px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_92_sz_Class {
+	position: absolute;
+	width: 175.802px;
+	height: 30.137px;
+	left: 581px;
+	top: 833.863px;
+	overflow: visible;
+}
+.star-black-18dp_s_Class {
+	position: absolute;
+	width: 30.137px;
+	height: 30.137px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_213_s_Class {
+	fill: transparent;
+}
+.Path_213_s {
+	overflow: visible;
+	position: absolute;
+	width: 30.138px;
+	height: 30.137px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_214_s_Class {
+	fill: transparent;
+}
+.Path_214_s {
+	overflow: visible;
+	position: absolute;
+	width: 30.138px;
+	height: 30.137px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_215_s_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_215_s {
+	overflow: visible;
+	position: absolute;
+	width: 25.114px;
+	height: 23.859px;
+	left: 2.512px;
+	top: 2.511px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.star-black-18dp_ta_Class {
+	position: absolute;
+	width: 30.137px;
+	height: 30.137px;
+	left: 36.416px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_213_ta_Class {
+	fill: transparent;
+}
+.Path_213_ta {
+	overflow: visible;
+	position: absolute;
+	width: 30.138px;
+	height: 30.137px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_214_ta_Class {
+	fill: transparent;
+}
+.Path_214_ta {
+	overflow: visible;
+	position: absolute;
+	width: 30.138px;
+	height: 30.137px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_215_ta_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_215_ta {
+	overflow: visible;
+	position: absolute;
+	width: 25.114px;
+	height: 23.859px;
+	left: 2.512px;
+	top: 2.511px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.star-black-18dp_tb_Class {
+	position: absolute;
+	width: 30.137px;
+	height: 30.137px;
+	left: 72.832px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_213_tb_Class {
+	fill: transparent;
+}
+.Path_213_tb {
+	overflow: visible;
+	position: absolute;
+	width: 30.138px;
+	height: 30.137px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_214_tb_Class {
+	fill: transparent;
+}
+.Path_214_tb {
+	overflow: visible;
+	position: absolute;
+	width: 30.138px;
+	height: 30.137px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_215_tb_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_215_tb {
+	overflow: visible;
+	position: absolute;
+	width: 25.114px;
+	height: 23.859px;
+	left: 2.512px;
+	top: 2.511px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.star-black-18dp_tc_Class {
+	position: absolute;
+	width: 30.137px;
+	height: 30.137px;
+	left: 109.248px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_213_td_Class {
+	fill: transparent;
+}
+.Path_213_td {
+	overflow: visible;
+	position: absolute;
+	width: 30.138px;
+	height: 30.137px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_214_te_Class {
+	fill: transparent;
+}
+.Path_214_te {
+	overflow: visible;
+	position: absolute;
+	width: 30.138px;
+	height: 30.137px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_215_tf_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_215_tf {
+	overflow: visible;
+	position: absolute;
+	width: 25.114px;
+	height: 23.859px;
+	left: 2.512px;
+	top: 2.511px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.star_border-black-18dp_tg_Class {
+	position: absolute;
+	width: 30.137px;
+	height: 30.137px;
+	left: 145.664px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_216_th_Class {
+	fill: transparent;
+}
+.Path_216_th {
+	overflow: visible;
+	position: absolute;
+	width: 30.138px;
+	height: 30.137px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_217_ti_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_217_ti {
+	overflow: visible;
+	position: absolute;
+	width: 25.114px;
+	height: 23.859px;
+	left: 2.512px;
+	top: 2.511px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID5_stars_tj_Class {
+	left: 630px;
+	top: 883px;
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+.Abuja_Class {
+	left: 927px;
+	top: 883px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(0,0,0,1);
+}

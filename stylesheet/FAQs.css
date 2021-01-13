@@ -1,0 +1,627 @@
+.mediaViewInfo {
+	--web-view-name: FAQs;
+	--web-view-id: FAQs;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: FAQs;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.FAQs_Class {
+	position: absolute;
+	width: 1920px;
+	height: 2022px;
+	background-color: rgba(248,248,248,1);
+	overflow: hidden;
+	--web-view-name: FAQs;
+	--web-view-id: FAQs;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Rectangle_1_g_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1_g {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 2022px;
+	left: 0px;
+	top: 0px;
+}
+.LurisByte_g_Class {
+	left: 741px;
+	top: 137px;
+	position: absolute;
+	overflow: visible;
+	width: 439px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,193,208,1);
+	letter-spacing: 6px;
+}
+._Digital_Community_for_Legal_P_g_Class {
+	left: 756px;
+	top: 229px;
+	position: absolute;
+	overflow: visible;
+	width: 409px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(0,193,208,1);
+}
+.wallhaven-01z9v3_Class {
+	position: absolute;
+	width: 682px;
+	height: 239px;
+	left: 278px;
+	top: 323px;
+	overflow: visible;
+}
+.GettyImages-99572325-1-804x577_Class {
+	position: absolute;
+	width: 674px;
+	height: 239px;
+	left: 968px;
+	top: 323px;
+	overflow: visible;
+}
+.Lorem_ipsum_dolor_sit_amet_con_g_Class {
+	left: 278px;
+	top: 654px;
+	position: absolute;
+	overflow: hidden;
+	width: 445px;
+	height: 1085px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_ha_Class {
+	left: 738px;
+	top: 654px;
+	position: absolute;
+	overflow: hidden;
+	width: 445px;
+	height: 963px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_hb_Class {
+	left: 1198px;
+	top: 654px;
+	position: absolute;
+	overflow: hidden;
+	width: 445px;
+	height: 795px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,1);
+}
+.Component_23__4_Class {
+	position: absolute;
+	width: 1920px;
+	height: 200px;
+	left: 0px;
+	top: 1822px;
+	overflow: visible;
+}
+.Base_hb_Class {
+	fill: rgba(0,193,208,1);
+}
+.Base_hb {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 200px;
+	left: 0px;
+	top: 0px;
+}
+.CONTACT_US_Class {
+	left: 290px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	line-height: 12px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.ID44_345_678_903_lurisbytemail_hd_Class {
+	left: 380px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.SERVICES_he_Class {
+	left: 600px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	line-height: 12px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.Contact_Us_Help_Service_Free_C_hf_Class {
+	left: 680px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.INFORMATION_hg_Class {
+	left: 910px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	line-height: 12px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.LurisByte_Career_Work_With_US__hh_Class {
+	left: 1000px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+._LurisByte_2021_hi_Class {
+	left: 1553px;
+	top: 146px;
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -5px;
+	text-align: right;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.social_hj_Class {
+	position: absolute;
+	width: 84px;
+	height: 16.001px;
+	left: 1550px;
+	top: 49.999px;
+	overflow: visible;
+}
+.Component_hk_Class {
+	position: absolute;
+	width: 16px;
+	height: 16.001px;
+	left: 68px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_392_hl_Class {
+	fill: transparent;
+}
+.Rectangle_392_hl {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+}
+.Path_1_hm_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_1_hm {
+	overflow: visible;
+	position: absolute;
+	width: 8.355px;
+	height: 16px;
+	left: 4px;
+	top: 0.001px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Component_hn_Class {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 36px;
+	top: 0.001px;
+	overflow: visible;
+}
+.Rectangle_393_ho_Class {
+	fill: transparent;
+}
+.Rectangle_393_ho {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+}
+.Path_2_hp_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_2_hp {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 12.978px;
+	left: 0px;
+	top: 1.999px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Component_hq_Class {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0.001px;
+	overflow: visible;
+}
+.Path_3_hr_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_3_hr {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Component_5__1_hs_Class {
+	position: absolute;
+	width: 1920px;
+	height: 98px;
+	left: 0px;
+	top: 18px;
+	overflow: visible;
+}
+.Component_4__1_ht_Class {
+	position: absolute;
+	width: 1920px;
+	height: 98px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1096_hu_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1096_hu {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 98px;
+	left: 0px;
+	top: 0px;
+}
+.PRACTICE_AREAS_hv_Class {
+	left: 499px;
+	top: 37px;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: landing_page.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,1);
+}
+.ABOUT_US_hw_Class {
+	left: 670px;
+	top: 37px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: landing_page.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,1);
+}
+.FAQs_hx_Class {
+	left: 791px;
+	top: 37px;
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,1);
+}
+.ID1-01_hy_Class {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	left: 260px;
+	top: 13px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: landing_page.html;
+	cursor: pointer;
+}
+.LurisByte_hz_Class {
+	left: 320px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: landing_page.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(112,112,112,1);
+}
+.Button_Primary_h_Class {
+	position: absolute;
+	width: 148px;
+	height: 48px;
+	left: 1322px;
+	top: 24px;
+	overflow: visible;
+	cursor: pointer;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: log_in_page_.html;
+}
+.Rectangle_1091_h_Class {
+	fill: transparent;
+	stroke: rgba(0,193,208,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1091_h {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+.LOG_IN_h_Class {
+	left: 53px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -9px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(0,193,208,1);
+}
+.Button_CTA_h_Class {
+	position: absolute;
+	width: 148px;
+	height: 48px;
+	left: 1495px;
+	top: 24px;
+	overflow: visible;
+	cursor: pointer;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: sign_in_page_.html;
+}
+.Rectangle_1090_h_Class {
+	fill: rgba(0,193,208,1);
+}
+.Rectangle_1090_h {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+.SIGN_IN_h_Class {
+	left: 52px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -9px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+.Top_Navigation__Search_h_Class {
+	position: absolute;
+	width: 88px;
+	height: 24px;
+	left: 1209px;
+	top: 36px;
+	overflow: visible;
+}
+.ID00_General__01_Icons__02_Com_h_Class {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.BG_h_Class {
+	fill: rgba(0,0,0,0);
+}
+.BG_h {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+.color_h_Class {
+	fill: rgba(126,132,163,1);
+}
+.color_h {
+	overflow: visible;
+	position: absolute;
+	width: 17px;
+	height: 17px;
+	left: 3px;
+	top: 3px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Search_ia_Class {
+	left: 32px;
+	top: 3px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(90,96,127,1);
+}

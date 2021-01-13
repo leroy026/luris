@@ -1,0 +1,1470 @@
+.mediaViewInfo {
+	--web-view-name: landing page;
+	--web-view-id: landing_page;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+	--web-is-overlay: true;
+}
+:root {
+	--web-view-ids: landing_page;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.landing_page_Class {
+	position: absolute;
+	width: 1920px;
+	height: 3901px;
+	background-color: rgba(248,248,248,1);
+	overflow: hidden;
+	cursor: pointer;
+	--web-view-name: landing page;
+	--web-view-id: landing_page;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+	--web-is-overlay: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Rectangle_1_Class {
+	fill: rgba(246,246,246,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 3901px;
+	left: 0px;
+	top: 0px;
+}
+.wallhaven-2e153x_Class {
+	position: absolute;
+	width: 1365px;
+	height: 510px;
+	left: 278px;
+	top: 154px;
+	overflow: visible;
+}
+.Rectangle_2_Class {
+	opacity: 0.26;
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1367px;
+	height: 510px;
+	left: 277px;
+	top: 154px;
+}
+.Group_1_Class {
+	position: absolute;
+	width: 201px;
+	height: 75px;
+	left: 860px;
+	top: 409px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: get_a_lawyer_page.html;
+	cursor: pointer;
+}
+.Rectangle_3_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	height: 75px;
+	left: 0px;
+	top: 0px;
+}
+.GET_A_LAWYER_Class {
+	left: 12px;
+	top: 21px;
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+.LurisByte_Class {
+	left: 741px;
+	top: 263px;
+	position: absolute;
+	overflow: visible;
+	width: 439px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 6px;
+}
+.Group_4_Class {
+	position: absolute;
+	width: 80px;
+	height: 80px;
+	left: 920px;
+	top: 690px;
+	overflow: visible;
+}
+.Ellipse_1_Class {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	height: 80px;
+	left: 0px;
+	top: 0px;
+}
+.Group_3_Class {
+	position: absolute;
+	width: 37.62px;
+	height: 13.682px;
+	left: 21.036px;
+	top: 37.818px;
+	overflow: visible;
+}
+.Line_1_Class {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 20.676px;
+	height: 16.884px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_2_Class {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 21.651px;
+	height: 16.947px;
+	left: 18.279px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.TESTIMONIALS_Class {
+	left: 274px;
+	top: 1247px;
+	position: absolute;
+	overflow: visible;
+	width: 350px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(112,112,112,1);
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+.PRACTICE_AREAS_Class {
+	left: 274px;
+	top: 2443px;
+	position: absolute;
+	overflow: visible;
+	width: 398px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(112,112,112,1);
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+.About_us_Class {
+	left: 295px;
+	top: 3089px;
+	position: absolute;
+	overflow: visible;
+	width: 243px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(112,112,112,1);
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+.contact_us_Class {
+	left: 1001px;
+	top: 3089px;
+	position: absolute;
+	overflow: visible;
+	width: 303px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(112,112,112,1);
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+.VISION_Class {
+	left: 274px;
+	top: 827px;
+	position: absolute;
+	overflow: visible;
+	width: 167px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(112,112,112,1);
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+.wallhaven-ymgpgd_Class {
+	position: absolute;
+	width: 660px;
+	height: 440px;
+	left: 277px;
+	top: 1364px;
+	overflow: visible;
+}
+.Lorem_ipsum_dolor_sit_amet_con_Class {
+	left: 317px;
+	top: 1404px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 88px;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.time_Class {
+	position: absolute;
+	width: 107px;
+	height: 16px;
+	left: 317px;
+	top: 1748px;
+	overflow: visible;
+}
+.ID5months_ago_Class {
+	left: 26px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+.Path_33_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_33 {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.WallpapersGram4k_-_david-beckh_Class {
+	position: absolute;
+	width: 660px;
+	height: 440px;
+	left: 983px;
+	top: 1840px;
+	overflow: visible;
+}
+.Lorem_ipsum_dolor_sit_amet_con_bc_Class {
+	left: 1023px;
+	top: 1880px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 88px;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.More_Class {
+	left: 1580px;
+	top: 2372px;
+	position: absolute;
+	overflow: visible;
+	width: 46px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(112,112,112,1);
+}
+.time_be_Class {
+	position: absolute;
+	width: 99px;
+	height: 16px;
+	left: 1023px;
+	top: 2224px;
+	overflow: visible;
+}
+.ID3_years_ago_Class {
+	left: 26px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+.Path_33_bg_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_33_bg {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Component_3_Class {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 1627px;
+	top: 2372px;
+	overflow: visible;
+}
+.Path_10_Class {
+	fill: rgba(112,112,112,1);
+}
+.Path_10 {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.IurisByte_is_an_online_digital_Class {
+	left: 278px;
+	top: 944px;
+	position: absolute;
+	overflow: visible;
+	width: 1367px;
+	height: 114px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+	letter-spacing: 1px;
+}
+.Lorem_ipsum_dolor_sit_amet_con_bk_Class {
+	left: 274px;
+	top: 1058px;
+	position: absolute;
+	overflow: visible;
+	width: 1365px;
+	height: 132px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+	letter-spacing: 1px;
+}
+.Lorem_ipsum_dolor_sit_amet_con_bl_Class {
+	left: 1071px;
+	top: 1364px;
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 231px;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+	letter-spacing: 1px;
+}
+.Lorem_ipsum_dolor_sit_amet_con_bm_Class {
+	left: 277px;
+	top: 2049px;
+	position: absolute;
+	overflow: visible;
+	width: 573px;
+	height: 231px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+	letter-spacing: 1px;
+}
+.Post_Thumbnails_Class {
+	position: absolute;
+	width: 330px;
+	height: 366px;
+	left: 278px;
+	top: 2560px;
+	overflow: visible;
+}
+.Rectangle_746_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_746 {
+	position: absolute;
+	overflow: visible;
+	width: 330px;
+	height: 182px;
+	left: 0px;
+	top: 184px;
+}
+.Financial_Law_Class {
+	left: 27px;
+	top: 211px;
+	position: absolute;
+	overflow: hidden;
+	width: 258px;
+	height: 21px;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Excepteur_sint_occaecat_cupida_Class {
+	left: 27px;
+	top: 254px;
+	position: absolute;
+	overflow: hidden;
+	width: 258px;
+	height: 37px;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(112,112,112,1);
+}
+.Get_Started_Class {
+	left: 239px;
+	top: 325px;
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	line-height: 21px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+.f_law_Class {
+	position: absolute;
+	width: 330px;
+	height: 184px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Post_Thumbnails_bt_Class {
+	position: absolute;
+	width: 330px;
+	height: 366px;
+	left: 623px;
+	top: 2560px;
+	overflow: visible;
+}
+.Rectangle_746_bu_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_746_bu {
+	position: absolute;
+	overflow: visible;
+	width: 330px;
+	height: 182px;
+	left: 0px;
+	top: 184px;
+}
+.Criminal_Law_Class {
+	left: 27px;
+	top: 211px;
+	position: absolute;
+	overflow: hidden;
+	width: 258px;
+	height: 21px;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Excepteur_sint_occaecat_cupida_bw_Class {
+	left: 27px;
+	top: 254px;
+	position: absolute;
+	overflow: hidden;
+	width: 258px;
+	height: 37px;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(112,112,112,1);
+}
+.Get_Started_bx_Class {
+	left: 239px;
+	top: 325px;
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	line-height: 21px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+.c_law_Class {
+	position: absolute;
+	width: 330px;
+	height: 184px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Post_Thumbnails_bz_Class {
+	position: absolute;
+	width: 330px;
+	height: 366px;
+	left: 969px;
+	top: 2560px;
+	overflow: visible;
+}
+.Rectangle_746_b_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_746_b {
+	position: absolute;
+	overflow: visible;
+	width: 330px;
+	height: 182px;
+	left: 0px;
+	top: 184px;
+}
+.Fire_Accidents_Class {
+	left: 27px;
+	top: 211px;
+	position: absolute;
+	overflow: hidden;
+	width: 258px;
+	height: 21px;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Excepteur_sint_occaecat_cupida_b_Class {
+	left: 27px;
+	top: 254px;
+	position: absolute;
+	overflow: hidden;
+	width: 258px;
+	height: 37px;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(112,112,112,1);
+}
+.Get_Started_b_Class {
+	left: 239px;
+	top: 325px;
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	line-height: 21px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+.fire_accident_Class {
+	position: absolute;
+	width: 330px;
+	height: 184px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Post_Thumbnails_b_Class {
+	position: absolute;
+	width: 330px;
+	height: 366px;
+	left: 1314px;
+	top: 2560px;
+	overflow: visible;
+}
+.Rectangle_746_ca_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_746_ca {
+	position: absolute;
+	overflow: visible;
+	width: 330px;
+	height: 182px;
+	left: 0px;
+	top: 184px;
+}
+.Divorce_Settlement_Class {
+	left: 27px;
+	top: 211px;
+	position: absolute;
+	overflow: hidden;
+	width: 258px;
+	height: 21px;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Excepteur_sint_occaecat_cupida_ca_Class {
+	left: 27px;
+	top: 254px;
+	position: absolute;
+	overflow: hidden;
+	width: 258px;
+	height: 37px;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(112,112,112,1);
+}
+.Get_Started_ca_Class {
+	left: 239px;
+	top: 325px;
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	line-height: 21px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+.divorce_settlement_Class {
+	position: absolute;
+	width: 330px;
+	height: 184px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Lorem_ipsum_dolor_sit_amet_con_cb_Class {
+	left: 278px;
+	top: 3206px;
+	position: absolute;
+	overflow: hidden;
+	width: 706px;
+	height: 343px;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Rectangle_1095_Class {
+	fill: rgba(236,236,236,1);
+}
+.Rectangle_1095 {
+	position: absolute;
+	overflow: visible;
+	width: 639px;
+	height: 328px;
+	left: 1005px;
+	top: 3206px;
+}
+.Textbox_Empty_Class {
+	position: absolute;
+	width: 310px;
+	height: 140px;
+	left: 1023px;
+	top: 3312px;
+	overflow: visible;
+}
+.Rectangle_683_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,193,208,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_683 {
+	position: absolute;
+	overflow: visible;
+	width: 310px;
+	height: 140px;
+	left: 0px;
+	top: 0px;
+}
+.Message_Class {
+	left: 20px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,193,208,1);
+}
+.Name_Class {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 1023px;
+	top: 3235px;
+	overflow: visible;
+}
+.Path_205_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,193,208,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_205 {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.JaneDoemailcom_Class {
+	left: 20px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,193,208,1);
+}
+.Component_23__1_Class {
+	position: absolute;
+	width: 1920px;
+	height: 200px;
+	left: 0px;
+	top: 3701px;
+	overflow: visible;
+}
+.Base_Class {
+	fill: rgba(0,193,208,1);
+}
+.Base {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 200px;
+	left: 0px;
+	top: 0px;
+}
+.CONTACT_US_cl_Class {
+	left: 290px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	line-height: 12px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.ID44_345_678_903_lurisbytemail_Class {
+	left: 380px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.SERVICES_Class {
+	left: 600px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	line-height: 12px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.Contact_Us_Help_Service_Free_C_Class {
+	left: 680px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.INFORMATION_Class {
+	left: 910px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	line-height: 12px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.LurisByte_Career_Work_With_US__Class {
+	left: 1000px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+._LurisByte_2021_Class {
+	left: 1553px;
+	top: 146px;
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -5px;
+	text-align: right;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.social_Class {
+	position: absolute;
+	width: 84px;
+	height: 16.001px;
+	left: 1550px;
+	top: 49.999px;
+	overflow: visible;
+}
+.Component_Class {
+	position: absolute;
+	width: 16px;
+	height: 16.001px;
+	left: 68px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_392_Class {
+	fill: transparent;
+}
+.Rectangle_392 {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+}
+.Path_1_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 8.355px;
+	height: 16px;
+	left: 4px;
+	top: 0.001px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Component_cw_Class {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 36px;
+	top: 0.001px;
+	overflow: visible;
+}
+.Rectangle_393_Class {
+	fill: transparent;
+}
+.Rectangle_393 {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+}
+.Path_2_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 12.978px;
+	left: 0px;
+	top: 1.999px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Component_cz_Class {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0.001px;
+	overflow: visible;
+}
+.Path_3_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Component_5__1_Class {
+	position: absolute;
+	width: 1920px;
+	height: 98px;
+	left: 0px;
+	top: 18px;
+	overflow: visible;
+}
+.Component_4__1_Class {
+	position: absolute;
+	width: 1920px;
+	height: 98px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1096_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1096 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 98px;
+	left: 0px;
+	top: 0px;
+}
+.PRACTICE_AREAS_c_Class {
+	left: 499px;
+	top: 37px;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,1);
+}
+.ABOUT_US_Class {
+	left: 670px;
+	top: 37px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,1);
+}
+.FAQs_c_Class {
+	left: 791px;
+	top: 37px;
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: FAQs.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,1);
+}
+.ID1-01_Class {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	left: 260px;
+	top: 13px;
+	overflow: visible;
+}
+.LurisByte_c_Class {
+	left: 320px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(112,112,112,1);
+}
+.Button_Primary_Class {
+	position: absolute;
+	width: 148px;
+	height: 48px;
+	left: 1322px;
+	top: 24px;
+	overflow: visible;
+	cursor: pointer;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: log_in_page_.html;
+}
+.Rectangle_1091_Class {
+	fill: transparent;
+	stroke: rgba(0,193,208,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1091 {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+.LOG_IN_Class {
+	left: 53px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -9px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(0,193,208,1);
+}
+.Button_CTA_Class {
+	position: absolute;
+	width: 148px;
+	height: 48px;
+	left: 1495px;
+	top: 24px;
+	overflow: visible;
+	cursor: pointer;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: sign_in_page_.html;
+}
+.Rectangle_1090_Class {
+	fill: rgba(0,193,208,1);
+}
+.Rectangle_1090 {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+.SIGN_IN_Class {
+	left: 52px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -9px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+.Top_Navigation__Search_Class {
+	position: absolute;
+	width: 88px;
+	height: 24px;
+	left: 1209px;
+	top: 36px;
+	overflow: visible;
+}
+.ID00_General__01_Icons__02_Com_Class {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.BG_Class {
+	fill: rgba(0,0,0,0);
+}
+.BG {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+.color_Class {
+	fill: rgba(126,132,163,1);
+}
+.color {
+	overflow: visible;
+	position: absolute;
+	width: 17px;
+	height: 17px;
+	left: 3px;
+	top: 3px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Search_Class {
+	left: 32px;
+	top: 3px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(90,96,127,1);
+}
+.Line_3_Class {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 63.5px;
+	height: 1px;
+	left: 928.5px;
+	top: 2313.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_5_Class {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 63.5px;
+	height: 1px;
+	left: 928.5px;
+	top: 674.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_4_Class {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 63.5px;
+	height: 1px;
+	left: 928.5px;
+	top: 2959.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+._Digital_Community_for_Legal_P_Class {
+	left: 756px;
+	top: 355px;
+	position: absolute;
+	overflow: visible;
+	width: 409px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(255,255,255,1);
+}
+.Button_CTA_do_Class {
+	position: absolute;
+	width: 148px;
+	height: 48px;
+	left: 1023px;
+	top: 3467px;
+	overflow: visible;
+}
+.Path_224_Class {
+	fill: rgba(0,193,208,1);
+}
+.Path_224 {
+	overflow: visible;
+	position: absolute;
+	width: 148px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.SEND_Class {
+	left: 57px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -9px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
